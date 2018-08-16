@@ -1,0 +1,11 @@
+D:\WorkCode\LocalTopoScreenSln\TPService\bin\Debug\TPService.exe.config
+D:\WorkCode\LocalTopoScreenSln\TPService\bin\Debug\TPService.exe
+D:\WorkCode\LocalTopoScreenSln\TPService\bin\Debug\TPService.pdb
+D:\WorkCode\LocalTopoScreenSln\TPService\bin\Debug\Google.Protobuf.dll
+D:\WorkCode\LocalTopoScreenSln\TPService\bin\Debug\MySql.Data.dll
+D:\WorkCode\LocalTopoScreenSln\TPService\bin\Debug\Google.Protobuf.xml
+D:\WorkCode\LocalTopoScreenSln\TPService\bin\Debug\MySql.Data.xml
+D:\WorkCode\LocalTopoScreenSln\TPService\obj\Debug\TPService.ProjectInstaller.resources
+D:\WorkCode\LocalTopoScreenSln\TPService\obj\Debug\TPService.csproj.GenerateResource.Cache
+D:\WorkCode\LocalTopoScreenSln\TPService\obj\Debug\TPService.exe
+D:\WorkCode\LocalTopoScreenSln\TPService\obj\Debug\TPService.pdb
